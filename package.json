@@ -9,6 +9,11 @@
   "author": "Guf tall",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "pug": "^2.0.0-rc.2",
+    "mysql": "^2.13.0",
+    "express-mysql-session": "^1.2.1"
   }
 }
