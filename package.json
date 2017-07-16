@@ -1,0 +1,14 @@
+{
+  "name": "online_reserve",
+  "version": "0.0.1",
+  "description": "reserve every one, Online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guf tall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
